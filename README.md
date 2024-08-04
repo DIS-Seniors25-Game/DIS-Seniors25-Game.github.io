@@ -1,10 +1,3 @@
-<html >
-<head>
-</head>
-<body bgcolor="lightblue" >
-</body>
-</html>
-
 # DIS Seniors 25 Game
 
 Welcome to the first game made by a DIS Seniors class
